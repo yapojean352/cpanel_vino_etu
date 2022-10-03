@@ -2,7 +2,7 @@
 <div class="accueilContent">
     <div id="accueil">
         <div class="monTitre">
-            <h1>Avec vino <br>gérez votre cellier <br>en toute simplicité !</h1>
+            <h1>Avec vino <br>Gérez votre cellier <br>en toute simplicité !</h1>
         </div>
 
 
