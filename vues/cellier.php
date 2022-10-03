@@ -5,7 +5,7 @@
 <div id="filtre">    
 <form id="fitltreForm" id="tri" name="formTri" action="<?php echo BASEURL?>?requete=cellier<?php echo isset($_GET['id']) ?'&id='.$_GET['id'] : ""?>" method="post">
              Mot clé :<input type="text" value ="<?php echo $_POST["recherche_bouteille"]?>" placeholder ="rechercher" name="recherche_bouteille">
-            <label>Trier par</label>
+            <label>Trier Par</label>
             <select name="typeTri" id="idType">
                 <option  value="nom" <?php echo $critere === "nom" ? "selected" : "" ?>>Nom</option>
                 <option value="type"<?php echo $critere === "type" ? "selected" : "" ?> >Type</option>
