@@ -6,7 +6,7 @@
 			</p>
 			<p>
 				
-				Réalisé par : Hind bouharra / Guillaume landry / Yapo nguio jean rene / Tatiana ghercioglo
+				Réalisé par : Hind bouharra / Guillaume landry / Yapo jean rene / Tatiana ghercioglo
 
 			</p>
 		</footer>
