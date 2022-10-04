@@ -6,12 +6,12 @@
              <?= ($lastUser !== "") ? "<p>Compte ajoutee</p>" : ""?>
              <hr>
              <label for="identifiant">Identifiant:</label>
-            <input type="text" value ="<?=$lastUser ?>"placeholder="Identifiant *" name="identifiant">
+            <input type="text" value ="<?=$lastUser ?>"placeholder="Identifiant..." name="identifiant">
             <span class="retourErreur">
                 <?php echo $data['identifiantErreur']?>
             </span>
             <label for="motDePasse">Mot de passe:</label>
-            <input type="password" placeholder="Mot de passe *" name="motDePasse">
+            <input type="password" placeholder="Mot de passe..." name="motDePasse">
             <span class="retourErreur">
                 <?php echo $data['motDePasseErreur']?>
             </span>
